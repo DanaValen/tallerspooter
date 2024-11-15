@@ -1,7 +1,7 @@
-package com.anyi.controller;
+package com.Dana.controller;
 
-import com.anyi.entity.ProductEntity;
-import com.anyi.services.ProductService;
+import com.Dana.entity.ProductEntity;
+import com.Dana.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
